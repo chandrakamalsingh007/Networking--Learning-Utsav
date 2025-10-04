@@ -15,4 +15,4 @@
 3. Assign IP addresses:
    - PC1: 10.0.0.2
    - PC2: 10.0.0.3
-4. Test connectivity using `ping`or send packets from PC1 to PC2
+4. Verify OSI model using simulation then packet is transferred
