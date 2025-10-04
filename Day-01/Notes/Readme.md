@@ -32,6 +32,8 @@ This document provides detailed notes on fundamental networking concepts includi
 - Uses **routers, gateways, and firewalls**.
 - **Example**: The Internet is the largest internetwork (billions of devices across the globe).
 
+![Network,Networking and Internetworking](1.png)
+
 ---
 
 ## 2️⃣ Types of Network
