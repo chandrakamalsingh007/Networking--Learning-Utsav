@@ -47,6 +47,7 @@ The OSI model is a conceptual framework that standardizes the functions of a tel
    - **Devices:** Hubs, Repeaters, Cables
    - **Data Unit:** Bit
 
+![OSI model](./assets/1.jpg)
 ---
 
 ## TCP/IP Model
@@ -69,6 +70,8 @@ The TCP/IP model is a practical implementation model used in real-world networki
 4. **Network Access Layer**
    - Combines OSI Data Link and Physical layers
    - **Protocols:** Ethernet, Wi-Fi, PPP
+
+![TCP/IP Model](./assets/2.jpg)
 
 ### Key Differences Between OSI and TCP/IP
 
@@ -117,6 +120,15 @@ The TCP/IP model is a practical implementation model used in real-world networki
    - Frequency: 300GHz–400THz, short range, line-of-sight
    - Applications: Remote controls, IR data transfer
 
+![Transmission Media](./assets/3.jpg)
+![Transmission Media](./assets/4.jpg)
+![Transmission Media](./assets/5.jpg)
+![Transmission Media](./assets/6.jpg)
+![Transmission Media](./assets/7.jpg)
+![Transmission Media](./assets/8.jpg)
+![Transmission Media](./assets/9.jpg)
+![Transmission Media](./assets/10.jpg)
+![Transmission Media](./assets/11.jpg)
 ---
 
 ## IEEE Standards Committee and Formats
@@ -133,6 +145,7 @@ The TCP/IP model is a practical implementation model used in real-world networki
 - Other Standards: 802.1 (Bridging), 802.2 (LLC), 802.5 (Token Ring), 802.15 (Bluetooth), 802.16 (WiMAX)
 
 ### IEEE Standards Format
+```bash
 IEEE XXX.Y-ZAAAAB
 │ │ │ │ │ │
 │ │ │ │ │ └── Additional specifications
@@ -141,8 +154,9 @@ IEEE XXX.Y-ZAAAAB
 │ │ └──────── Sub-standard number
 │ └──────────── Standard number
 └────────────────── IEEE identifier
+```
 
-
+![IEEE](./assets/12.jpg)
 
 ---
 
@@ -169,6 +183,7 @@ ping -s 1000 google.com  # Packet size
 ping -t google.com       # Continuous ping
 ping -W 5 google.com     # Set timeout
 ```
+![PING](./assets/13.jpg)
 
 ### Wireless Network and Internet Authority
 Regulatory Bodies
@@ -193,6 +208,9 @@ ICANN: IP allocation, DNS management
 IETF: TCP/IP standards
 
 IANA: IP address management, now part of ICANN
+![Wireless and Internet Authority](./assets/14.jpg)
+![Wireless and Internet Authority](./assets/15.jpg)
+![Wireless and Internet Authority](./assets/16.jpg)
 
 ### IP Address in Detailed Explanation
 What is an IP Address?
@@ -269,3 +287,6 @@ Usable Host Range: 192.168.1.1 - 192.168.1.254
 Total Hosts: 256
 Usable Hosts: 254
 ```
+![IP address](./assets/18.jpg)
+![IP address](./assets/19.jpg)
+![IP address](./assets/20.jpg)
