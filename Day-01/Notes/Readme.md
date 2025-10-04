@@ -98,6 +98,7 @@ This document provides detailed notes on fundamental networking concepts includi
    - Example: Telephone conversation.
 
 ---
+![Transmission Media and Medias](./assets/3.jpg)
 
 ### 🔹 Transmission Mediums (How data travels)
 
@@ -154,6 +155,10 @@ Network topology defines the **arrangement of nodes and connections** in a netwo
    - Mix of two or more topologies.
    - Example: Star + Mesh in data centers.
 
+![Topology](./assets/4.jpg)
+![Topology](./assets/5.jpg)
+![Topology](./assets/6.jpg)
+![Topology](./assets/7.jpg)
 ---
 
 ## 5️⃣ Networking Devices
@@ -190,6 +195,17 @@ Network topology defines the **arrangement of nodes and connections** in a netwo
 
 8. **Repeater**
    - Regenerates signals to extend network distance.
+
+![Networking Devices](./assets/8.jpg)
+![Networking Devices](./assets/9.jpg)
+![Networking Devices](./assets/11.jpg)
+![Networking Devices](./assets/12.jpg)
+![Networking Devices](./assets/13.jpg)
+![Networking Devices](./assets/14.jpg)
+![Networking Devices](./assets/15.jpg)
+![Networking Devices](./assets/16.jpg)
+![Networking Devices](./assets/17.jpg)
+![Networking Devices](./assets/18.jpg)
 
 ---
 
