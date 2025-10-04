@@ -1,4 +1,4 @@
-# Lab 01: Basic Network Setup
+# Lab 01: L2 Switch Configuration
 
 ## 🎯 Objective
 - Connect two PCs via a switch
