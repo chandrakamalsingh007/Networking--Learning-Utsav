@@ -289,4 +289,6 @@ Usable Hosts: 254
 ```
 ![IP address](./assets/18.jpg)
 ![IP address](./assets/19.jpg)
+
+### IP to Binary Conversion
 ![IP address](./assets/20.jpg)
